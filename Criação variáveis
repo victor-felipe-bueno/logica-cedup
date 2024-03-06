@@ -1,0 +1,16 @@
+string = " endereco ";
+string = " telefone ";
+int = " salario "
+string = "cpf"
+real= " preco "
+real = " temperatura "
+booleana = " casado "
+date = " nascimento "
+bodoleana = " vacinado ";
+real = " preco_gasolina "
+real = "litros_gasolina "
+real = " preco_pao "
+total_compras (se_for_gasto= real)(se_for_itens = int)
+string = " idade "
+date = " data_contrato "
+string = " nivel_escolaridade "
