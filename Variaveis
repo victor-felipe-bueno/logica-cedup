@@ -1,0 +1,22 @@
+A, B, C e D sendo A=V, B=F, C=F e D=V:
+2) S = (D v A ^ C) v ~(B v C)= Verdadeiro
+(V v V ^ F) v ~(F v F)
+V ^ F v V
+V v V
+V
+
+3) S = ~(A v B)= Verdadeiro
+~(V v F)
+~ F
+V
+
+4) S = ~(A ^ B)= Falso
+~(V ^ F)
+~ V
+F
+
+5) S = C v ~B ^ (A v ~D)= Falso
+F v ~F ^ (V v ~V)
+F v ~F ^ F
+F ^ F
+F
